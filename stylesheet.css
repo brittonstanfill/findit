@@ -26,11 +26,13 @@ body {
 }
 
 .logo {
-	width:300px;
+	width:194px;
 	height:100px;
 	margin:100px auto 0 auto;
 	font-size:70px;
 	color:#666;
+	font-weight: 300;
+	letter-spacing: -2px;
 }
 
 
