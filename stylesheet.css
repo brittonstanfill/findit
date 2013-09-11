@@ -83,3 +83,13 @@ input:focus {
 	box-shadow:0px 0px 6px #;
 }
 
+p.copyright {
+    position:fixed;
+    bottom:0;
+    left:50%;
+    margin-left:-200px; /*negative half the width */
+    width:400px;
+    height:20px;
+    font-size:75%;
+    text-align: center;
+}
